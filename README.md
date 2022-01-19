@@ -1,2 +1,5 @@
-Ethan Grace
-eg585619
+Name: Ethan Grace
+Github Username: eg585619
+Email: eg585619@ohio.edu
+
+CS 2400, Section 107
